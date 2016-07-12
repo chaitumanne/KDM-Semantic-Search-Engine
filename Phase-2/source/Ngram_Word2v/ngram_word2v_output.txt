@@ -1,0 +1,156 @@
+nine noble family fight for control of the mythical land of Westeros . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . Robert Baratheon , King of Westeros , ask he old friend Eddard , Lord Stark , to serve as hand of the King , or highest official . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . Robert Baratheon , King of Westeros , ask he old friend Eddard , Lord Stark , to serve as hand of the King , or highest official . secretly warn that the previous hand be assassinate , Eddard accept in order of business to investigate further . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . the friction between the house Stark , Lannister , Baratheon and Targaryen and with the remain great house Greyjoy , Tully , Arryn , Tyrell and Martell lead to full-scale war . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . the friction between the house Stark , Lannister , Baratheon and Targaryen and with the remain great house Greyjoy , Tully , Arryn , Tyrell and Martell lead to full-scale war . all while a very ancient evil awaken in the farthest north . 
+[0,nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . Robert Baratheon , King of Westeros , ask he old friend Eddard , Lord Stark , to serve as hand of the King , or highest official . secretly warn that the previous hand be assassinate , Eddard accept in order of business to investigate further . ,WrappedArray(nine, noble, family, fight, for, control, of, the, mythical, land, of, westeros, ., political, and, sexual, intrigue, be, pervasive, ., robert, baratheon, ,, king, of, westeros, ,, ask, he, old, friend, eddard, ,, lord, stark, ,, to, serve, as, hand, of, the, king, ,, or, highest, official, ., secretly, warn, that, the, previous, hand, be, assassinate, ,, eddard, accept, in, order, of, business, to, investigate, further, .),WrappedArray(nine, noble, family, fight, control, mythical, land, westeros, ., political, sexual, intrigue, pervasive, ., robert, baratheon, ,, king, westeros, ,, ask, old, friend, eddard, ,, lord, stark, ,, serve, hand, king, ,, highest, official, ., secretly, warn, previous, hand, assassinate, ,, eddard, accept, order, business, investigate, .),WrappedArray(nine noble, noble family, family fight, fight control, control mythical, mythical land, land westeros, westeros ., . political, political sexual, sexual intrigue, intrigue pervasive, pervasive ., . robert, robert baratheon, baratheon ,, , king, king westeros, westeros ,, , ask, ask old, old friend, friend eddard, eddard ,, , lord, lord stark, stark ,, , serve, serve hand, hand king, king ,, , highest, highest official, official ., . secretly, secretly warn, warn previous, previous hand, hand assassinate, assassinate ,, , eddard, eddard accept, accept order, order business, business investigate, investigate .)]
+[0,,WrappedArray(),WrappedArray(),WrappedArray()]
+[0,meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . the friction between the house Stark , Lannister , Baratheon and Targaryen and with the remain great house Greyjoy , Tully , Arryn , Tyrell and Martell lead to full-scale war . all while a very ancient evil awaken in the farthest north . ,WrappedArray(meanwhile, the, queen, 's, family, ,, the, lannisters, ,, may, be, hatch, a, plot, to, take, power, ., across, the, sea, ,, the, last, member, of, the, previous, and, depose, ruling, family, ,, the, targaryens, ,, be, also, scheming, to, regain, the, throne, ., the, friction, between, the, house, stark, ,, lannister, ,, baratheon, and, targaryen, and, with, the, remain, great, house, greyjoy, ,, tully, ,, arryn, ,, tyrell, and, martell, lead, to, full-scale, war, ., all, while, a, very, ancient, evil, awaken, in, the, farthest, north, .),WrappedArray(meanwhile, queen, 's, family, ,, lannisters, ,, may, hatch, plot, take, power, ., across, sea, ,, last, member, previous, depose, ruling, family, ,, targaryens, ,, also, scheming, regain, throne, ., friction, house, stark, ,, lannister, ,, baratheon, targaryen, remain, great, house, greyjoy, ,, tully, ,, arryn, ,, tyrell, martell, lead, full-scale, war, ., ancient, evil, awaken, farthest, north, .),WrappedArray(meanwhile queen, queen 's, 's family, family ,, , lannisters, lannisters ,, , may, may hatch, hatch plot, plot take, take power, power ., . across, across sea, sea ,, , last, last member, member previous, previous depose, depose ruling, ruling family, family ,, , targaryens, targaryens ,, , also, also scheming, scheming regain, regain throne, throne ., . friction, friction house, house stark, stark ,, , lannister, lannister ,, , baratheon, baratheon targaryen, targaryen remain, remain great, great house, house greyjoy, greyjoy ,, , tully, tully ,, , arryn, arryn ,, , tyrell, tyrell martell, martell lead, lead full-scale, full-scale war, war ., . ancient, ancient evil, evil awaken, awaken farthest, farthest north, north .)]
+root
+ |-- labels: integer (nullable = false)
+ |-- sentence: string (nullable = true)
+ |-- words: array (nullable = true)
+ |    |-- element: string (containsNull = true)
+ |-- filteredWords: array (nullable = true)
+ |    |-- element: string (containsNull = true)
+ |-- ngrams: array (nullable = true)
+ |    |-- element: string (containsNull = false)
+
+()
+amidst the war and political confusion , a neglect military order of misfit , the Night 's Watch , be all that stand between the realm of man and icy horror beyond . 
+nine noble family fight for control of the mythical land of Westeros . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . Robert Baratheon , King of Westeros , ask he old friend Eddard , Lord Stark , to serve as hand of the King , or highest official . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . Robert Baratheon , King of Westeros , ask he old friend Eddard , Lord Stark , to serve as hand of the King , or highest official . secretly warn that the previous hand be assassinate , Eddard accept in order of business to investigate further . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . the friction between the house Stark , Lannister , Baratheon and Targaryen and with the remain great house Greyjoy , Tully , Arryn , Tyrell and Martell lead to full-scale war . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . the friction between the house Stark , Lannister , Baratheon and Targaryen and with the remain great house Greyjoy , Tully , Arryn , Tyrell and Martell lead to full-scale war . all while a very ancient evil awaken in the farthest north . 
+nine noble family fight for control of the mythical land of Westeros . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . Robert Baratheon , King of Westeros , ask he old friend Eddard , Lord Stark , to serve as hand of the King , or highest official . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . Robert Baratheon , King of Westeros , ask he old friend Eddard , Lord Stark , to serve as hand of the King , or highest official . secretly warn that the previous hand be assassinate , Eddard accept in order of business to investigate further . 
+amidst the war and political confusion , a neglect military order of misfit , the Night 's Watch , be all that stand between the realm of man and icy horror beyond . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . the friction between the house Stark , Lannister , Baratheon and Targaryen and with the remain great house Greyjoy , Tully , Arryn , Tyrell and Martell lead to full-scale war . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . the friction between the house Stark , Lannister , Baratheon and Targaryen and with the remain great house Greyjoy , Tully , Arryn , Tyrell and Martell lead to full-scale war . all while a very ancient evil awaken in the farthest north . 
+(1048576,[1035612],[0.0])
+(1048576,[4200,30084,44133,93484,178985,277042,281561,300909,306775,322412,342796,370708,401368,421014,429905,456678,494511,513968,529877,530339,634098,641070,649714,656398,723078,731198,751599,787968,813542,816744,859041,924359,1032531,1035612,1041588],[1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,0.6931471805599453,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,0.6931471805599453,1.0986122886681098,2.1972245773362196,1.0986122886681098,2.1972245773362196,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,0.6931471805599453,2.1972245773362196,1.0986122886681098,1.6218604324326575,2.1972245773362196,0.6931471805599453,0.6931471805599453,0.6931471805599453,1.0986122886681098,0.0,1.0986122886681098])
+(1048576,[1035612],[0.0])
+(1048576,[66092,185129,201038,297264,325189,360210,399040,480792,533116,549206,590226,723078,736708,787968,816744,826521,978809,1035612,1040706],[1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,0.6931471805599453,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,0.6931471805599453,1.0986122886681098,0.4054651081081644,0.6931471805599453,1.0986122886681098,0.6931471805599453,0.0,1.0986122886681098])
+(1048576,[4907,6369,14444,20035,97395,129154,138356,140586,159152,181938,237276,299224,300909,329556,334532,347585,360210,409280,429905,457042,476413,529669,579456,598759,612143,612187,621525,694261,710299,734459,787968,792248,842071,850056,859041,879256,884388,918666,924359,926926,971660,978074,978809,1001982,1035612],[1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,2.1972245773362196,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,0.6931471805599453,1.0986122886681098,1.0986122886681098,1.0986122886681098,0.6931471805599453,1.0986122886681098,0.6931471805599453,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.6218604324326575,1.0986122886681098,1.0986122886681098,1.0986122886681098,1.3862943611198906,1.0986122886681098,1.0986122886681098,1.0986122886681098,0.6931471805599453,1.0986122886681098,1.0986122886681098,1.0986122886681098,0.6931471805599453,1.0986122886681098,0.0])
+amidst the war and political confusion , a neglect military order of misfit , the Night 's Watch , be all that stand between the realm of man and icy horror beyond . 
+nine noble family fight for control of the mythical land of Westeros . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . Robert Baratheon , King of Westeros , ask he old friend Eddard , Lord Stark , to serve as hand of the King , or highest official . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . Robert Baratheon , King of Westeros , ask he old friend Eddard , Lord Stark , to serve as hand of the King , or highest official . secretly warn that the previous hand be assassinate , Eddard accept in order of business to investigate further . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . the friction between the house Stark , Lannister , Baratheon and Targaryen and with the remain great house Greyjoy , Tully , Arryn , Tyrell and Martell lead to full-scale war . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . the friction between the house Stark , Lannister , Baratheon and Targaryen and with the remain great house Greyjoy , Tully , Arryn , Tyrell and Martell lead to full-scale war . all while a very ancient evil awaken in the farthest north . 
+(king,2.1972245773362196)
+(eddard,2.1972245773362196)
+(hand,2.1972245773362196)
+(westeros,2.1972245773362196)
+(house,2.1972245773362196)
+(family,1.3862943611198906)
+(arryn,1.0986122886681098)
+(greyjoy,1.0986122886681098)
+(ask,1.0986122886681098)
+(awaken,1.0986122886681098)
+(noble,1.0986122886681098)
+(lead,1.0986122886681098)
+(confusion,1.0986122886681098)
+(full-scale,1.0986122886681098)
+(throne,1.0986122886681098)
+(meanwhile,1.0986122886681098)
+(lannisters,1.0986122886681098)
+(take,1.0986122886681098)
+(member,1.0986122886681098)
+(tyrell,1.0986122886681098)
+TOP WORDS: 
+
+(king,2.1972245773362196)
+(eddard,2.1972245773362196)
+(hand,2.1972245773362196)
+(westeros,2.1972245773362196)
+(house,2.1972245773362196)
+(family,1.3862943611198906)
+(arryn,1.0986122886681098)
+(greyjoy,1.0986122886681098)
+(ask,1.0986122886681098)
+(awaken,1.0986122886681098)
+amidst the war and political confusion , a neglect military order of misfit , the Night 's Watch , be all that stand between the realm of man and icy horror beyond . 
+nine noble family fight for control of the mythical land of Westeros . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . Robert Baratheon , King of Westeros , ask he old friend Eddard , Lord Stark , to serve as hand of the King , or highest official . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . Robert Baratheon , King of Westeros , ask he old friend Eddard , Lord Stark , to serve as hand of the King , or highest official . secretly warn that the previous hand be assassinate , Eddard accept in order of business to investigate further . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . the friction between the house Stark , Lannister , Baratheon and Targaryen and with the remain great house Greyjoy , Tully , Arryn , Tyrell and Martell lead to full-scale war . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . the friction between the house Stark , Lannister , Baratheon and Targaryen and with the remain great house Greyjoy , Tully , Arryn , Tyrell and Martell lead to full-scale war . all while a very ancient evil awaken in the farthest north . 
+nine noble family fight for control of the mythical land of Westeros . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . Robert Baratheon , King of Westeros , ask he old friend Eddard , Lord Stark , to serve as hand of the King , or highest official . 
+nine noble family fight for control of the mythical land of Westeros . political and sexual intrigue be pervasive . Robert Baratheon , King of Westeros , ask he old friend Eddard , Lord Stark , to serve as hand of the King , or highest official . secretly warn that the previous hand be assassinate , Eddard accept in order of business to investigate further . 
+amidst the war and political confusion , a neglect military order of misfit , the Night 's Watch , be all that stand between the realm of man and icy horror beyond . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . the friction between the house Stark , Lannister , Baratheon and Targaryen and with the remain great house Greyjoy , Tully , Arryn , Tyrell and Martell lead to full-scale war . 
+meanwhile the Queen 's family , the Lannisters , may be hatch a plot to take power . across the sea , the last member of the previous and depose ruling family , the Targaryens , be also scheming to regain the throne . the friction between the house Stark , Lannister , Baratheon and Targaryen and with the remain great house Greyjoy , Tully , Arryn , Tyrell and Martell lead to full-scale war . all while a very ancient evil awaken in the farthest north . 
+16/07/12 12:13:15 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+16/07/12 12:13:15 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+w2v_4ebc54547d05
+king  : 
+[across,0.9797830991657119]
+[amidst,0.9776816330713664]
+[business,0.9769436799683295]
+
+eddard  : 
+[night,0.9963337434665638]
+[friction,0.9789255499323978]
+[tyrell,0.9728299122715041]
+
+hand  : 
+[investigate,0.9686351721630194]
+[plot,0.9365548214916205]
+[ancient,0.9323132309456293]
+
+westeros  : 
+[,0.9992252741133153]
+[greyjoy,0.9932088685933861]
+[amidst,0.9646715470261682]
+
+house  : 
+[hatch,0.9546983390599763]
+[arryn,0.9443068150784275]
+[power,0.9313055021027135]
+
+family  : 
+[tully,0.995993850566672]
+[investigate,0.976589095979947]
+[intrigue,0.9333738366603805]
+
+arryn  : 
+[hatch,0.9653958883036464]
+[house,0.9443069550208824]
+[old,0.9312662130598407]
+
+greyjoy  : 
+[,0.9966766320337733]
+[westeros,0.9932088263002684]
+[amidst,0.9699005818809031]
+
+ask  : 
+[awaken,0.9870222506387474]
+[stark,0.9827771809893979]
+[fight,0.9530942643915576]
+
+awaken  : 
+[stark,0.9925432462731104]
+[ask,0.9870222383030524]
+[ruling,0.9867032219129613]
