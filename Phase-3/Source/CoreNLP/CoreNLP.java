@@ -5,9 +5,6 @@ import edu.stanford.nlp.simple.Sentence;
 
 import java.util.List;
 
-/**
- * Created by Mayanka on 27-Jun-16.
- */
 public class CoreNLP {
     public static String returnLemma(String sentence) {
 
